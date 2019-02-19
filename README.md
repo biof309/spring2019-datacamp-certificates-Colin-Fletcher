@@ -1,5 +1,11 @@
 # Title: A markdown file
 
-Some text
+Synopsis of project:
+    DNA sequence manipulation utilities
 
-more text
+Detailed summary of project goals:
+    Tools to analyze restriction enzyme digests
+    Tools to analyze SSLPs
+    
+    
+
