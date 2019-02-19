@@ -7,5 +7,6 @@ Detailed summary of project goals:
     Tools to analyze restriction enzyme digests
     Tools to analyze SSLPs
     
-  cha-cha-changes  
+Cha-cha-changes and edits. Commit locally and push to Git-hub
+ 
 
